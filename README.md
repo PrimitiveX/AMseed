@@ -1,6 +1,6 @@
 # RobotSeed
 
-We aim to give the robotics community **an honest and complete record of what it takes to train and evaluate action models**. Each release connects the model inputs and training settings to resource use, checkpoints, rollout protocol, and task-level outcomes. We train established action models with VLM backbones at different scales, and rapidly evaluate and share emerging techniques of interest to the community. The model, dataset, and VLM indexes below will grow with the project.
+RobotSeed aims to give the robotics community **an honest and complete record of what it takes to train and evaluate action models**. Each release connects the model inputs and training settings to resource use, checkpoints, rollout protocol, and task-level outcomes. We train established action models with VLM backbones at different scales, and rapidly evaluate and share emerging techniques of interest to the community. The model, dataset, and VLM indexes below will grow with the project.
 
 ## Action models
 
